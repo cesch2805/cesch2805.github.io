@@ -179,6 +179,23 @@ nav > a:hover{
 
 footer{
   background: black;
+  padding: 60px 0 30px 0;
+  margin: auto;
+  overflow: hidden;
+}
+.contenedor-footer{
+  display: flex;
+  width: 90%;
+  justify-content: space-evenly;
+  margin: auto;
+  padding-bottom: 50px;
+  
+}
+.contenedor-foo{
+  text-align: center;
+  border-bottom: 3px solid brown;
+  padding-bottom: 5px;
+  margin-bottom: 10px ;
 }
 .contenedor-foo p{
   color: white;
@@ -186,6 +203,11 @@ footer{
 .contenedor-foo h4{
   color: white;
   font-weight: bolder;
+}
+
+footer a{
+  color: wheat;
+  text-decoration: none;
 }
 
 /*Pagina adidas*/
