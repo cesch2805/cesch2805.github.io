@@ -1,0 +1,12 @@
+body {
+  
+  background-color:darkgray
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+input,button {
+  margin: 15px;
+}
